@@ -16,6 +16,6 @@ There are other, similar projects around the web. One is by Emmanuel Zambrano, w
 The project is run by two Adafruit HUZZAH32 Feather boards with ESP32 MCU chips with wifi capabilities. One Feather board is connected to an RGB light sensor to detect the color of the light. This board sends the light color to Adafruit IO, where users can set up a free account to send, receive, and store data. The second Feather board reads the Adafruit IO light color data and displays it on an RGB LED strip. The two Feather boards do not need to be connected to the same wifi network, allowing color data in one location to be transferred anywhere in the world where wifi is available. 
 
 ## What you'll find here
-This project includes the fritzing wiring schematics and code for each Feather board (sender and receiver). Much of the color sensor code is adapted from Adafruit's TCS34725 sensor Arduino tutorials, which are fantastic. I'm sure my code is not the most elegant, but it works and may serve as a helpful starting point for others. 
+This project includes the fritzing wiring schematics and code for each Feather board (sender and receiver) as well as a bill of materials. Much of the color sensor code is adapted from Adafruit's TCS34725 sensor Arduino tutorials, which are fantastic. I'm sure my code is not the most elegant, but it works and may serve as a helpful starting point for others. 
 
 Please reach out if you have any questions! 
