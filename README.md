@@ -1,4 +1,4 @@
-# Color-sensor-and-display
+# Color-sensor-to-RGB_LED
 
 ## Overview
 This is a hobby project, no science here! 
