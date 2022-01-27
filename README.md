@@ -1,4 +1,5 @@
 # Color-sensor-to-RGB_LED
+Code and wiring for sending color data from a sensor to an RGB light strip. 
 
 ## Overview
 This is a hobby project, no science here! 
